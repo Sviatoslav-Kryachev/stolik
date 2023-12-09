@@ -2068,7 +2068,7 @@ header .img-wrap-top p {
 
 .black-div .item img {
     position: absolute;
-    left: 0
+    left: 0;
 }
 
 .black-div .col-sm-4 .item {
@@ -2098,11 +2098,11 @@ header .img-wrap-top p {
     border-radius: 35px;
     background-color: #fff;
     text-decoration: line-through;
-    color: #000;
+    color: red;
     width: 100%;
     margin: 10px auto;
     text-align: center;
-    font-weight: 400;
+    font-weight: 600;
     height: 70px;
     line-height: 70px
 }
@@ -3424,4 +3424,9 @@ h2.title {
     -webkit-border-radius: 2px;
     border-radius: 2px;
     top: 45%
+}
+
+.item{
+	margin-bottom: 45px;
+	margin-top: 40px;
 }
