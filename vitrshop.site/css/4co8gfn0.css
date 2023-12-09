@@ -1703,7 +1703,9 @@ body {
 
 .res-i {
     max-width: 100%;
-    border-radius: 15px
+    border-radius: 15px;
+
+	
 }
 
 .strong,
@@ -2052,10 +2054,11 @@ header .img-wrap-top p {
 }
 
 .black-div {
-    background-color: #000;
+    background-color: #8bc24a;
     color: #fff;
     padding: 40px 0 0;
-    text-transform: uppercase
+    text-transform: uppercase;
+	 font-weight: 600;		
 }
 
 .black-div .item {

@@ -14,14 +14,15 @@
 }
 .footer {
     padding: 25px 0;
-    background: #f2f2f2;
+    background: #4e4d4d;
     font-size: 14px;
     line-height: 5px;
     text-align: center;
+
 }
 .footer a {
     text-decoration: none;
-    color: #111;
+    color: #fff;
 }
 input[type="text"],
 input[type="tel"],
@@ -289,6 +290,7 @@ input[type="comment"] {
 	text-align: center;
 	border-radius: 10px;
 	padding: 10px;
+	margin: 30px auto ;
 }
 
 .new-block__title {
